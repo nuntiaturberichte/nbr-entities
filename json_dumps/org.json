@@ -1,0 +1,35 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Katholische Kirche. Nuntiatur (Österreich, Graz)",
+    "nbr_id": "nrb_org_id1",
+    "gnd": "https://d-nb.info/gnd/4684538-0",
+    "location": [
+      {
+        "id": 3,
+        "value": "Graz"
+      }
+    ],
+    "person": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Katholische Kirche. Nuntiatur (Österreich)",
+    "nbr_id": "nrb_org_id2",
+    "gnd": "https://d-nb.info/gnd/10100476-X",
+    "location": [
+      {
+        "id": 1,
+        "value": "Wien"
+      }
+    ],
+    "person": [
+      {
+        "id": 1,
+        "value": "Sibilia, Enrico"
+      }
+    ]
+  }
+}

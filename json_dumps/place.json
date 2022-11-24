@@ -1,0 +1,52 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Wien",
+    "amp_id": "nbr_place_id_1",
+    "geonames": "https://www.geonames.org/2761369/vienna.html",
+    "person": [],
+    "person - place_of_death": [],
+    "ort": [
+      {
+        "id": 2,
+        "value": "Katholische Kirche. Nuntiatur (Österreich)"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Anagni",
+    "amp_id": "nbr_place_id_2",
+    "geonames": "https://www.geonames.org/6540534/anagni.html",
+    "person": [
+      {
+        "id": 1,
+        "value": "Sibilia, Enrico"
+      }
+    ],
+    "person - place_of_death": [
+      {
+        "id": 1,
+        "value": "Sibilia, Enrico"
+      }
+    ],
+    "ort": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Graz",
+    "amp_id": "nbr_place_id_3",
+    "geonames": "",
+    "person": [],
+    "person - place_of_death": [],
+    "ort": [
+      {
+        "id": 1,
+        "value": "Katholische Kirche. Nuntiatur (Österreich, Graz)"
+      }
+    ]
+  }
+}

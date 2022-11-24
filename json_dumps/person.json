@@ -1,0 +1,47 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Sibilia, Enrico",
+    "nbr_id": "nbr_person_1",
+    "title": [],
+    "gnd": "https://d-nb.info/gnd/1013145208",
+    "place_of_birth": [
+      {
+        "id": 2,
+        "value": "Anagni"
+      }
+    ],
+    "birth_date_written": "1861-03-17",
+    "birth_date": "1861-03-17",
+    "place_of_death": [
+      {
+        "id": 2,
+        "value": "Anagni"
+      }
+    ],
+    "death_date_written": "1948-08-04",
+    "death_date": "1948-08-04",
+    "affiliation": [
+      {
+        "id": 2,
+        "value": "Katholische Kirche. Nuntiatur (Österreich)"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "",
+    "nbr_id": "nbr_person_2",
+    "title": [],
+    "gnd": "",
+    "place_of_birth": [],
+    "birth_date_written": null,
+    "birth_date": null,
+    "place_of_death": [],
+    "death_date_written": null,
+    "death_date": null,
+    "affiliation": []
+  }
+}
