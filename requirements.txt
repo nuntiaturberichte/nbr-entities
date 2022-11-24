@@ -1,0 +1,2 @@
+acdh-baserow-pyutils>=0.2.0,<3
+acdh-id-reconciler>=0.6,<1
