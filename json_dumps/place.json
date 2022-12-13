@@ -48,5 +48,15 @@
         "value": "Katholische Kirche. Nuntiatur (Österreich, Graz)"
       }
     ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Pullach bei München",
+    "amp_id": "nbr_place_id_4",
+    "geonames": "http://sws.geonames.org/2851739/about.rdf",
+    "person": [],
+    "person - place_of_death": [],
+    "ort": []
   }
 }
