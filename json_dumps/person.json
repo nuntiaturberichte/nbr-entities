@@ -43,5 +43,20 @@
     "death_date_written": null,
     "death_date": null,
     "affiliation": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "",
+    "nbr_id": "nbr_person_3",
+    "title": [],
+    "gnd": "",
+    "place_of_birth": [],
+    "birth_date_written": "",
+    "birth_date": null,
+    "place_of_death": [],
+    "death_date_written": "",
+    "death_date": null,
+    "affiliation": []
   }
 }
