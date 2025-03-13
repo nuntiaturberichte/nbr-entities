@@ -10,7 +10,8 @@
     "ort": [
       {
         "id": 2,
-        "value": "Katholische Kirche. Nuntiatur (Österreich)"
+        "value": "Katholische Kirche. Nuntiatur (Österreich)",
+        "order": "2.00000000000000000000"
       }
     ]
   },
@@ -23,13 +24,15 @@
     "person": [
       {
         "id": 1,
-        "value": "Sibilia, Enrico"
+        "value": "Sibilia, Enrico",
+        "order": "1.00000000000000000000"
       }
     ],
     "person - place_of_death": [
       {
         "id": 1,
-        "value": "Sibilia, Enrico"
+        "value": "Sibilia, Enrico",
+        "order": "1.00000000000000000000"
       }
     ],
     "ort": []
@@ -45,7 +48,8 @@
     "ort": [
       {
         "id": 1,
-        "value": "Katholische Kirche. Nuntiatur (Österreich, Graz)"
+        "value": "Katholische Kirche. Nuntiatur (Österreich, Graz)",
+        "order": "1.00000000000000000000"
       }
     ]
   },

@@ -8,7 +8,8 @@
     "location": [
       {
         "id": 3,
-        "value": "Graz"
+        "value": "Graz",
+        "order": "3.00000000000000000000"
       }
     ],
     "person": []
@@ -22,13 +23,15 @@
     "location": [
       {
         "id": 1,
-        "value": "Wien"
+        "value": "Wien",
+        "order": "1.00000000000000000000"
       }
     ],
     "person": [
       {
         "id": 1,
-        "value": "Sibilia, Enrico"
+        "value": "Sibilia, Enrico",
+        "order": "1.00000000000000000000"
       }
     ]
   }
